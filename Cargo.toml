@@ -1,0 +1,14 @@
+[package]
+name = "typer"
+version = "0.1.0"
+edition = "2021"
+
+# one can(you) see more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "typer"
+path = "src/main.rs"
+
+[dependencies]
+crossterm = "0.27"
+rand = "0.8"
