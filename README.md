@@ -2,7 +2,7 @@
 
 A minimal terminal typing speed tester written in Rust.
 
-![demo](https://raw.githubusercontent.com/your-username/typer/main/demo.png)
+![demo](https://raw.githubusercontent.com/ishtiaque-f/typer/main/demo.png)
 
 ## features
 
