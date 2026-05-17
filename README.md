@@ -18,7 +18,7 @@ A minimal terminal typing speed tester written in Rust.
 ### from source
 
 ```bash
-git clone https://github.com/your-username/typer
+git clone https://github.com/ishtiaque-f/typer
 cd typer
 cargo build --release
 ./target/release/typer
